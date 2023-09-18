@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Welcome to Create React App 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
+
+In order to start using this project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Abdullah-129/DIET-SUGGESTION-AND-RECOMMERCE-WEBSITE-USING-REACTJS.git
+
+   cd <project-directory>
+
+   npm install
+
 
 ## Available Scripts
 
